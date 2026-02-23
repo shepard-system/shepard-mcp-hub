@@ -1,0 +1,8 @@
+# Default reviewers
+*                       @shepard-system/maintainers
+
+# Core code
+/src/                   @shepard-system/core-devs
+
+# CI/CD — owner only
+/.github/workflows/     @digitalashes
